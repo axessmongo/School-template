@@ -275,8 +275,8 @@ function Banner() {
 
             {/* schoolfoot */}
             <section className='school-bg' id='contact'>
-                <div className='container pt-4'>
-                    <div className='row pt-5'>
+                <div className='container py-5'>
+                    <div className='row pt-3'>
                         <div className='col-md-3' data-aos="fade-up" data-aos-duration="800">
                             <div>
                                 <h1 className='display-5 fw-normal'>Schools</h1>
