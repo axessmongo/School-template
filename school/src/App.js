@@ -12,11 +12,11 @@ import Footer from './Components/Footer';
 function App() {
   return (
     <div className="App">
-      {/* <Banner /> */}
+      <Banner />
       {/* <Frontsch /> */}
          {/*  <Footprints/> */}
         {/* <Extra/> */}
-        <Footer/>
+        {/* <Footer/> */}
 
     </div>
   );
