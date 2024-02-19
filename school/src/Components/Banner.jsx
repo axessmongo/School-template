@@ -50,7 +50,7 @@ function Banner() {
             <section className='nav-school'>
                 <nav class="navbar navbar-expand-lg" id=''>
                     <div class="container-fluid">
-                        <a class="navbar-brand text-light fs-1" href="#">Axess<span style={{ color: "lightgreen" }}> School</span></a>
+                        <a class="navbar-brand text-light fs-1" href="#">Logo<span style={{ color: "lightgreen" }}> School</span></a>
                         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                             <span class="navbar-toggler-icon"></span>
                         </button>
@@ -88,7 +88,7 @@ function Banner() {
             </div>
 
             {/* carousel sec */}
-             <section className=''>
+             <section className='' id='home'>
                 <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
                     <div class="carousel-inner">
                         <div class="carousel-item active">
